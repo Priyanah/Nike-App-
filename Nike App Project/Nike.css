@@ -1,0 +1,116 @@
+body
+{
+        height:100%;
+        margin: 0;
+}
+
+header
+{
+        background-color:white ;
+        /*padding: 5%;*/
+        
+        /*font-size: 30px;*/
+        color: seagreen;
+        /*font-family: fantasy;*/
+        /*font-style: italic;*/
+        background-image: url("Nike1.jpg");     
+        height: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-repeat: no-repeat;
+
+}
+
+#img
+{
+        float: left;
+        width: 200px;
+        
+}
+
+#img1
+{
+        float: left;
+        width: 170px;
+         
+}
+
+#img2
+{
+        float: right;
+        width: 255px;
+        
+}
+
+#img3
+{
+        float: left;
+        width: 200px;
+        
+}
+
+#img4
+{
+        float: right;
+        width: 250px;
+        
+}
+
+p
+{
+        text-align: center;
+        font-size: 28px;
+        font-style: italic;
+        font-family: sans-serif;
+        margin-left: 5%;
+        margin-right: 5%;
+
+}
+
+h1
+{
+        background-color: lightsteelblue;
+        text-align: center;
+        /*margin-top: 10%;*/
+        padding: 2rem ;
+        font-family: cursive;
+        font-style: italic;
+        font-size: 50px;
+        text-decoration: underline;
+              
+}
+
+
+
+h2
+{
+        text-align: center;
+        font-family: fantasy;
+        font-style: italic;
+        font-size: 30px;
+
+}
+.types{
+        background-repeat: no-repeat    ;
+        
+}
+.maindiv p{
+       background-color: skyblue; 
+       margin: 0;
+       }
+
+.maindiv1 p{
+       background-color:lightseagreen; 
+       margin: 0;
+       }
+
+.maindiv2 p{
+       background-color:lightsalmon; 
+       margin: 0;
+       }
+.maindiv3 p{
+       background-color:lawngreen; 
+       margin: 0;
+       }
+
